@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/02 08:53:33.000.284,=C:\development\ccsolutions\mod_web\register\Unit1.pas</Transaction>
+    <Transaction>2018/03/02 08:53:34.000.050,=C:\development\ccsolutions\mod_web\register\ServerController.pas</Transaction>
+    <Transaction>2018/03/02 08:53:34.000.159,=C:\development\ccsolutions\mod_web\register\UserSessionUnit.pas</Transaction>
+    <Transaction>2018/03/02 09:37:14.000.343,=C:\development\ccsolutions\mod_web\register\Unit2.pas</Transaction>
+    <Transaction>2018/03/02 09:37:23.000.546,C:\development\ccsolutions\mod_web\ufrm_dm.pas=C:\development\ccsolutions\mod_web\register\Unit2.pas</Transaction>
+    <Transaction>2018/03/02 09:37:23.000.546,C:\development\ccsolutions\mod_web\ufrm_dm.dfm=C:\development\ccsolutions\mod_web\register\Unit2.dfm</Transaction>
+    <Transaction>2018/03/02 09:42:18.000.274,C:\development\ccsolutions\mod_web\register\ufrm_main.dfm=C:\development\ccsolutions\mod_web\register\Unit1.dfm</Transaction>
+    <Transaction>2018/03/02 09:42:18.000.274,C:\development\ccsolutions\mod_web\register\ufrm_main.pas=C:\development\ccsolutions\mod_web\register\Unit1.pas</Transaction>
+    <Transaction>2018/03/03 10:58:06.859,C:\development\ccsolutions\mod_web\register\register_standalone.dproj=C:\development\ccsolutions\mod_web\register\register.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
