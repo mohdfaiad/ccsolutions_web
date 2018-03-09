@@ -229,7 +229,7 @@ object frm_main: Tfrm_main
   end
   object strproc_register: TFDStoredProc
     Connection = IWUserSession.connCCS
-    StoredProcName = 'ccs.proc_register'
+    StoredProcName = 'ccs.p_singup'
     Left = 72
     Top = 34
     ParamData = <
