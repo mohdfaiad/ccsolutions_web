@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/03/03 10:59:25.156,=C:\development\ccsolutions\mod_web\register_isapi\Unit1.pas</Transaction>
+    <Transaction>2018/03/03 10:59:25.468,=C:\development\ccsolutions\mod_web\register_isapi\ServerController.pas</Transaction>
+    <Transaction>2018/03/03 10:59:25.546,=C:\development\ccsolutions\mod_web\register_isapi\UserSessionUnit.pas</Transaction>
+    <Transaction>2018/03/03 11:00:57.674,=C:\development\ccsolutions\mod_web\register\ServerController.pas</Transaction>
+    <Transaction>2018/03/03 11:00:58.159,=C:\development\ccsolutions\mod_web\register\ufrm_main.pas</Transaction>
+    <Transaction>2018/03/03 11:00:58.346,=C:\development\ccsolutions\mod_web\register\UserSessionUnit.pas</Transaction>
+    <Transaction>2018/03/03 11:01:25.190,=C:\development\ccsolutions\mod_web\ufrm_dm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
